@@ -31,7 +31,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/venkateshbaddela/pricing-component-toggle]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://venkateshbaddela.github.io/pricing-component-toggle/]
 
 ### Built with
 
